@@ -2,7 +2,7 @@
 
 This repository contains code and models for our [paper](www.baidu.com):
 
-> A Light Weight Model for Video Shot Occlusion Detection  
+> A LIGHT WEIGHT MODEL FOR VIDEO SHOT OCCLUSION DETECTION  
 > Junhua Liao, Haihan Duan, Wanbin Zhao, Yanbing Yang, Liangyin Chen
 
 
@@ -14,14 +14,14 @@ This repository contains code and models for our [paper](www.baidu.com):
 Model weights:
 - [ICASSP_Model.pth](www.baidu.com)
 
-1) Download the dataset and place them in the `data` folder:
+2) Download the dataset and place them in the `data` folder:
 
 
 Dataset:
 - [OcclusionDataSet-MM20](https://junhua-liao.github.io/Occlusion-Detection/)
 
   
-2) Set up dependencies: 
+3) Set up dependencies: 
 
     ```shell
     pip install -r requirements.txt
