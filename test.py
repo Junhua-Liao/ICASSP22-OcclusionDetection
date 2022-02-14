@@ -37,7 +37,7 @@ if __name__ == '__main__':
     batch_size = 8
     entire_label = []
     entire_predict = []
-    dataset_path = '/home/wsn/Documents/MM/OcclusionDataSet-MM20/'
+    dataset_path = 'data/OcclusionDataSet-MM20/'
 
     Data_folder = os.path.join(dataset_path, 'Data', 'test')
     Annotation_folder = os.path.join(dataset_path, 'Annotations', 'test')
@@ -52,7 +52,7 @@ if __name__ == '__main__':
         label_list.append(os.path.join(Annotation_folder, label))
     label_list = sorted(label_list)
 
-    method = OcclusionDetection_ICASSP(model_path = 'model/ICASSP_Model.pth.tar')
+    method = OcclusionDetection_ICASSP(model_path = 'weights/ICASSP_Model.pth.tar')
     
     for index in range(len(data_list)):
 
