@@ -2,7 +2,7 @@
 
 This repository contains code and models for our [paper](www.baidu.com):
 
-> A Light Weight Model for Video Shot Occlusion Detection 
+> A Light Weight Model for Video Shot Occlusion Detection
 > Junhua Liao, Haihan Duan, Wanbin Zhao, Yanbing Yang, Liangyin Chen
 
 
