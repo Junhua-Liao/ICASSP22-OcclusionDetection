@@ -12,7 +12,7 @@ This repository contains code and models for our [paper(soon)](www.baidu.com):
 
 
 Model weights:
-- [ICASSP_Model.pth](https://drive.google.com/file/d/1nJLdf1hqvx22LhD_uDOT5O0JeDmapSqN/view?usp=sharing)
+- [ICASSP_Model.pth.tar](https://drive.google.com/file/d/1nJLdf1hqvx22LhD_uDOT5O0JeDmapSqN/view?usp=sharing)
 
 2) Download the dataset and decompress it in the `data` folder:
 
