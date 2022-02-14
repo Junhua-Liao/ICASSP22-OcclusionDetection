@@ -1,6 +1,6 @@
 ## A Light Weight Model for Video Shot Occlusion Detection
 
-This repository contains code and models for our [paper](www.baidu.com):
+This repository contains code and models for our [paper(soon)](www.baidu.com):
 
 > A LIGHT WEIGHT MODEL FOR VIDEO SHOT OCCLUSION DETECTION  
 > Junhua Liao, Haihan Duan, Wanbin Zhao, Yanbing Yang, Liangyin Chen
@@ -12,7 +12,7 @@ This repository contains code and models for our [paper](www.baidu.com):
 
 
 Model weights:
-- [ICASSP_Model.pth](www.baidu.com)
+- [ICASSP_Model.pth(soon)](www.baidu.com)
 
 2) Download the dataset and place them in the `data` folder:
 
