@@ -14,7 +14,7 @@ This repository contains code and models for our [paper(soon)](www.baidu.com):
 Model weights:
 - [ICASSP_Model.pth(soon)](www.baidu.com)
 
-2) Download the dataset and place them in the `data` folder:
+2) Download the dataset and decompress it in the `data` folder:
 
 
 Dataset:
