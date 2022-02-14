@@ -8,10 +8,9 @@ from model import OcclusionDetection_ICASSP
 def LoadData(file_dir):
 
     buffer = []
-    frames = sorted([os.path.join(file_dir, img) for img in os.listdir(file_dir)])
     
-    for frame in frames:
-        buffer.append(cv2.imread(frame).astype(np.float64))
+    for frame in sorted(os.listdir(file_dir)):
+        buffer.append(cv2.imread(os.path.join(file_dir, frame)).astype(np.float64))
 
     return buffer
 
