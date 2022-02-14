@@ -10,6 +10,7 @@ def LoadData(file_dir):
     buffer = []
     
     for frame in sorted(os.listdir(file_dir)):
+        
         buffer.append(cv2.imread(os.path.join(file_dir, frame)).astype(np.float64))
 
     return buffer
