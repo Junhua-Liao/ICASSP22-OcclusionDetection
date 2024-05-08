@@ -1,6 +1,6 @@
 ## A Light Weight Model for Video Shot Occlusion Detection
 
-This repository contains code and models for our [paper](https://seaxiaod.gitee.io/publications/2022/ICASSP2022.pdf):
+This repository contains code and models for our [paper](https://junhua-liao.github.io/Junhua-Liao/publications/papers/ICASSP_2022.pdf):
 
 > A LIGHT WEIGHT MODEL FOR VIDEO SHOT OCCLUSION DETECTION  
 > Junhua Liao, Haihan Duan, Wanbin Zhao, Yanbing Yang, Liangyin Chen
